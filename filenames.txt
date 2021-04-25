@@ -1,0 +1,9 @@
+smith        45   worker    
+taylor       55   manager   
+reynolds     46   worker    
+monroe       46   employe   
+friedman     51   clerk     
+mill         57   worker    
+burke        64   manager   
+smith        25   guardian  
+karlmarx     47   echonomist
