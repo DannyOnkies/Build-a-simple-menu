@@ -1,5 +1,5 @@
 # Build-a-simple-menu
-The menu can be useful to implement a simple menu to manage different scripts
+The menu can be useful to manage different scripts or to activate different options of the same script
 
 The example used relates to the personnel archive of a company. 
 There are 4 items in the menu:
